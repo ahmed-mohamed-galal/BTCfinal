@@ -1,8 +1,8 @@
-streamlit
-pandas
-numpy
-scikit-learn
-category_encoders
-statsmodels
-scipy
-joblib
+streamlit>=1.32
+pandas>=1.5
+numpy>=1.23
+scikit-learn>=1.3
+category_encoders>=2.6
+statsmodels>=0.14
+scipy>=1.11
+joblib>=1.3
